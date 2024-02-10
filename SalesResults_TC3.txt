@@ -1,0 +1,26 @@
+Producto                                 |   Cantidad | Precio Unitario |      Total
+---------------------------------------- | ---------- | --------------- | ----------
+Rustic breakfast                         |        200 |           21.32 |     4264.0
+Sandwich with salad                      |         23 |           22.48 |     517.04
+Raw legums                               |         13 |           17.11 |     222.43
+Fresh stawberry                          |        221 |           28.59 |    6318.39
+Green smoothie                           |        580 |           17.68 |    10254.4
+Cuban sandwiche                          |          2 |            18.5 |       37.0
+Hazelnut in black ceramic bowl           |          7 |           27.35 |     191.45
+Tomatoes                                 |          1 |           26.03 |      26.03
+Plums                                    |       1231 |           19.18 |   23610.58
+Fresh blueberries                        |       3744 |           21.01 |   78661.44
+Corn                                     |       1664 |           13.55 |    22547.2
+French fries                             |         37 |           18.32 |     677.84
+Ground beef meat burger                  |        146 |           11.73 |    1712.58
+Sweet fresh stawberry                    |        221 |           29.45 |    6508.45
+Homemade bread                           |        466 |           17.48 |    8145.68
+Smoothie with chia seeds                 |         61 |           25.26 |    1540.86
+---------------------------------------- | ---------- | --------------- | ----------
+                                         |            |                 | 165,235.37
+
+Los siguientes productos no se encontraron en el cat�logo de precios:
+Elotes                                            
+Frijoles                                          
+
+El tiempo de ejecuci�n fue de:0.008568763732910156
